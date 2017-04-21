@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\matth\documents\visual studio 2015\projects\exam 2\exam 2\city.h(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\matth\documents\visual studio 2015\projects\exam 2\exam 2\city.h(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\matth\documents\visual studio 2015\projects\exam 2\exam 2\city.h(143): warning C4018: '<': signed/unsigned mismatch
+  Exam 2.vcxproj -> C:\Users\matth\Documents\Visual Studio 2015\Projects\Exam 2\Debug\Exam 2.exe
+  Exam 2.vcxproj -> C:\Users\matth\Documents\Visual Studio 2015\Projects\Exam 2\Debug\Exam 2.pdb (Partial PDB)
